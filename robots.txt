@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emidiuco.github.io/ZSV/sitemap_index.txt
+Sitemap: https://emidiuco.github.io/dFs/sitemap_index.txt
+Sitemap: https://emidiuco.github.io/eAN/sitemap_index.txt
+Sitemap: https://emidiuco.github.io/ugr/sitemap_index.txt
